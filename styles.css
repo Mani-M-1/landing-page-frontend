@@ -33,7 +33,7 @@ header {
 }
 
 .header-logo {
-    width: 160px;
+    width: 65px;
 }
 
 .menu-items-wrapper {
@@ -67,11 +67,11 @@ header {
 @media (max-width: 768px) {
     .header-section-icon-and-menu-wrapper {
         background-color: rgba(0, 0, 0, 0.775);
-        padding: 1rem;
+        padding: 0.5rem 1rem;
     }
 
     .header-logo {
-        width: 120px;
+        width: 45px;
     }
 
     .menu-items-wrapper {
@@ -714,8 +714,9 @@ ol, ul {
 
 }
 
-.kotak-bank-image {
+.how-to-apply-section-img {
     width: 100%;
+    max-height: 600px;
     /* height: 100%; */
 }
 
